@@ -1,0 +1,222 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #01012c;
+}
+
+.headersec {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #01012c;
+}
+
+.logo {
+  margin-left: 8rem;
+  cursor: pointer;
+}
+
+.headercenter ul li {
+  display: inline-block;
+  color: white;
+  margin: 26px;
+  font-weight: 600;
+}
+
+ul li:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.headersec .hbtn {
+  height: 40px;
+  width: 100px;
+  border-radius: 10px;
+}
+
+.headersec .hbtn button {
+  height: 37px;
+  width: 67px;
+  border-radius: 22px;
+}
+
+.hbtn button:hover {
+  color: blue;
+  cursor: pointer;
+}
+
+.backgroundimage img {
+  height: 31rem;
+  width: 49rem;
+  margin-left: 40rem;
+  
+}
+.fontcenter{
+  margin-top: 6rem;
+}
+
+.head1 h1 {
+  font-weight: 900;
+  color: white;
+  font-size: 3.5rem;
+  margin-top: -35rem;
+  margin-left: 273px;
+  font-family: "Bungee ", sans-serif;
+}
+
+.head1 p {
+  color: white;
+  font-size: 25px;
+  margin-left: 280px;
+}
+
+.btnd {
+  margin-top: 9rem;
+  margin-left: 25rem;
+}
+
+.btnd button {
+  width: 300px;
+  height: 50px;
+  border-radius: 30px;
+  background-color: #161cbb;
+  font-size: 20px;
+}
+
+.btnd .btnwhite {
+  background-color: white;
+  margin: 13px;
+  color: #5865f2;
+}
+
+.btnd button:hover{
+  box-shadow: 1px 2px;
+color: #5865f2;
+cursor: pointer;
+
+}
+.gimg  {
+
+  width: 100%;
+
+}
+.gimg img {
+    width: 157px;
+    margin-left: 69rem;
+ }
+
+.vidnt {
+  margin: 0vw 10vw;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid white;
+  border-radius: 50px;
+  padding: 15px;
+  background-color: rgba(226, 223, 223, 0.13);
+}
+
+.vidnt video{
+
+  width: 50%;
+  border-radius: 80px
+
+}
+.text1{
+  margin: 49px
+}
+.text1 h1 {
+  font-weight: 900;
+  color: white;
+  font-size: 3.5rem;
+  font-family: "Bungee ", sans-serif;
+}
+.text1 p {
+  color: white;
+  font-size: 24px;
+  line-height: 43px;
+}
+.vid {
+  margin: 12vw 10vw;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  border: 1px solid white;
+  border-radius: 50px;
+  padding: 15px;
+  background-color: rgba(226, 223, 223, 0.13);
+}
+.vid video{
+  width: 50%;
+  border-radius: 80px
+}
+
+.text2{
+  margin: 49px
+}
+.text2 h1 {
+  font-weight: 900;
+  color: white;
+  font-size: 3.5rem;
+  font-family: "Bungee ", sans-serif;
+}
+.text2 p {
+  color: white;
+  font-size: 24px;
+  line-height: 43px;
+}
+
+
+.mainfooter {
+  display: flex;
+  justify-content: center;
+  margin-top: 8%;
+  gap: 5%;
+  background-color: #5C5EB3;
+  padding: 20px;
+}
+
+.footersection {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.socialmedialinks {
+  margin-top: 10px;
+}
+
+.socialmedialinks i {
+  margin-right: 10px;
+  color: #fff;
+}
+
+.footersection  ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footersection li {
+  padding: 10px;
+  color: #fff;
+
+}
+
+.opendiscord {
+  margin-top: 10px;
+  color: #fff;
+}
+.footersection h4 {
+  margin-left: 10px;
+  color: white;}
+
+  .hline {
+    border-bottom: 3px solid white;
+    margin: 0 15%;
+    margin-bottom: 40px;}
+ 
